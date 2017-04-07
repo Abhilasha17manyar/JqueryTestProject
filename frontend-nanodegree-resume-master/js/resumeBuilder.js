@@ -28,4 +28,4 @@ var udacityizer = function(s) {
 
 // Did your code work? The line below will tell you!
 console.log(udacityizer(s));
-console.log(animal.length);
+console.log(animal.length);//array length return
