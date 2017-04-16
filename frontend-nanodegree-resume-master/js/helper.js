@@ -68,6 +68,10 @@ $("#header").prepend(formattedrole);
 $("#header").prepend(formattedName);
 
 
+//var HTMLheaderName ='<h1 id="name">%data%</h1>';
+//$("#header").append(HTMLheaderName);
+
+
 /*
 The Internationalize Names challenge found in the lesson Flow Control from JavaScript Basics requires you to create a function that will need this helper code to run. Don't delete! It hooks up your code to the button you'll be appending.
 */
